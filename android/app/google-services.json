@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56696106546",
+    "project_id": "holohola",
+    "storage_bucket": "holohola.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56696106546:android:5d3f7c28687ff49e7a162b",
+        "android_client_info": {
+          "package_name": "com.example.apptry1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_FsvSIlPE35f7tcfaImJb2eQp0WVDeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
